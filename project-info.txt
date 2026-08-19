@@ -1,0 +1,3 @@
+Project: GitHub Collaboration Demo
+Team Members: Arushi and Madhura
+Purpose: Demonstrating GitHub version control and collaboration.
